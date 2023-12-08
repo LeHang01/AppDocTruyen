@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">App đọc truyện</string>
+    <string name="themtruyen">Thêm truyện</string>
+    <string name="tentruyen">Tên truyện</string>
+    <string name="noidung">Nội dung</string>
+    <string name="anhbia">Ảnh bìa</string>
+    <string name="capnhat">Cập nhật</string>
+    <string name="abc"> abc@example.com</string>
+    <string name="chiasevoi"> Chia sẻ với :</string>
+    <string name="tieude">Tiêu đề :</string>
+    <string name="loimoi">Lời mời xem truyện.</string>
+    <string name="noidung2">Nội dung :</string>
+    <string name="noidungtruyen">Truyện hay lắm, mời bạn tải app về đọc với mình nhé! ^^ \n https://play.google.com/store/apps/details?id=truyen88.net</string>
+    <string name="chiase">Chia sẻ</string>
+    <string name="dangbai">Đăng bài</string>
+    <string name="dangky">Đăng ký</string>
+    <string name="taikhoan">Tài Khoản</string>
+    <string name="matkhau">Mật Khẩu</string>
+    <string name="email">Email</string>
+    <string name="trovedn">Trở về Đăng Nhập</string>
+    <string name="welcome">Welcome to HL</string>
+    <string name="username">username</string>
+    <string name="dangnhap">Đăng nhập</string>
+    <string name="danhgia">Đánh giá</string>
+    <string name="xemdanhgia">Xem đánh giá</string>
+    <string name="tentaikhoan">Tên tài khoản</string>
+    <string name="yeuthich">Yêu thích</string>
+    <string name="tatcatruyen">Tất cả truyện</string>
+    <string name="thongtin">Thông Tin</string>
+    <string name="search">Search</string>
+    <string name="thongtindanhgia">Thông Tin Đánh Giá</string>
+    <string name="truyendathich">Truyện đã thích</string>
+    <string name="cacchuyenmuc">Các chuyên mục</string>
+    <string name="loi">Lợi</string>
+    <string name="noidungdanhgia">Nội dung đánh giá  </string>
+    <string name="banmuon">               Bạn muốn ?               </string>
+    <string name="xoa">Xoá</string>
+    <string name="boyt">Bỏ yêu thích truyện này ?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="textview">TextView</string>
+    <string name="dangxuat">Đăng xuất</string>
+    <string name="dangonline">Đang Online</string>
+    <string name="lethihang">lethihang@gmail.com</string>
+    <string name="nhom10">Nhóm 10</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@null"
+   >
+
+    <!-- TODO: Update blank fragment layout -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/lam"
+        android:orientation="vertical"
+        android:layout_gravity="center"
+        >
+
+        <ImageView
+            android:layout_marginTop="60dp"
+            android:layout_width="400dp"
+            android:layout_height="200dp"
+            android:layout_gravity="center"
+            android:src="@drawable/dangnhap" />
+        <TextView
+            android:layout_marginTop="30dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/welcome"
+            android:textColor="@color/lamdam"
+            android:textStyle="bold"
+
+            android:layout_gravity="center"
+            android:textSize="35sp"
+            />
+        <TextView
+            android:textAlignment="center"
+            android:id="@+id/tvLoginStatus"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:visibility="gone"
+            android:text=""
+            android:textColor="@android:color/holo_red_dark"
+            android:textSize="16sp" />
+
+        <EditText
+
+            android:id="@+id/edtUsername"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:inputType="textEmailAddress"
+            android:hint="@string/username"
+            android:textColorHint="@color/lamdam"
+            android:layout_gravity="center"
+            android:drawableLeft="@drawable/ic_taikhoan"
+            android:drawablePadding="10dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/edit"
+            android:padding="20dp"
+            />
+        <EditText
+            android:id="@+id/edtPasswod"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:inputType="textPassword"
+            android:hint="Password"
+            android:textColorHint="@color/lamdam"
+            android:layout_gravity="center"
+            android:drawableLeft="@drawable/ic_matkhau"
+            android:drawablePadding="10dp"
+            android:layout_marginTop="15dp"
+            android:background="@drawable/edit"
+            android:padding="20dp"
+
+            />
+
+        <Button
+            android:id="@+id/btnDangNhap"
+            android:layout_width="300dp"
+            android:layout_height="60dp"
+            android:layout_gravity="center"
+            android:text="@string/dangnhap"
+            android:textColor="@color/white"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/botron"
+            />
+        <Button
+            android:id="@+id/btnDangKy"
+            android:layout_width="300dp"
+            android:layout_height="60dp"
+            android:layout_gravity="center"
+            android:text="@string/dangky"
+            android:textColor="@color/white"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/botron1"
+            />
+
+    </LinearLayout>
+
+
+
+</LinearLayout>
